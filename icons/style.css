@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?vj7114');
-  src:  url('fonts/icomoon.eot?vj7114#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?vj7114') format('truetype'),
-    url('fonts/icomoon.woff?vj7114') format('woff'),
-    url('fonts/icomoon.svg?vj7114#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?jyh7w6');
+  src:  url('fonts/icomoon.eot?jyh7w6#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?jyh7w6') format('truetype'),
+    url('fonts/icomoon.woff?jyh7w6') format('woff'),
+    url('fonts/icomoon.svg?jyh7w6#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,42 +25,60 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-chevron-up:before {
-  content: "\e90c";
-}
-.icon-phone:before {
-  content: "\e900";
-}
-.icon-close:before {
-  content: "\e901";
-}
-.icon-cosmetic:before {
-  content: "\e902";
-}
-.icon-facebook:before {
+.icon-fish-svgrepo-com:before {
   content: "\e903";
 }
-.icon-instagram:before {
+.icon-meat-slice-silhouette-svgrepo-com:before {
   content: "\e904";
 }
-.icon-mail:before {
+.icon-pudding-dessert-svgrepo-com:before {
   content: "\e905";
 }
-.icon-trim:before {
+.icon-wine-svgrepo-com:before {
   content: "\e906";
 }
-.icon-whatsapp:before {
+.icon-call:before {
   content: "\e907";
 }
-.icon-woman-hair:before {
+.icon-alternate_email:before {
   content: "\e908";
 }
+.icon-cancel:before {
+  content: "\e90b";
+}
+.icon-instagram-with-circle:before {
+  content: "\e90c";
+}
+.icon-facebook2:before {
+  content: "\ea91";
+}
+.icon-instagram:before {
+  content: "\ea92";
+}
 .icon-youtube:before {
+  content: "\ea9d";
+}
+.icon-restaurant:before {
+  content: "\e902";
+}
+.icon-location:before {
   content: "\e909";
 }
-.icon-map-pin:before {
+.icon-arrow-thick-up:before {
   content: "\e90a";
 }
-.icon-menu:before {
-  content: "\e90b";
+.icon-view-list:before {
+  content: "\e900";
+}
+.icon-food:before {
+  content: "\e901";
+}
+.icon-spoon-knife:before {
+  content: "\e9a3";
+}
+.icon-fire:before {
+  content: "\e9a9";
+}
+.icon-whatsapp:before {
+  content: "\ea93";
 }
